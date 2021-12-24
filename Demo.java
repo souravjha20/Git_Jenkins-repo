@@ -11,10 +11,10 @@ public class Demo {
         System.out.print("Enter first number: ");
 
         // This method reads the number provided using keyboard
-        int num1 = scan.nextInt();
+        int num1 = 10;
         
         System.out.print("Enter second number: ");
-        int num2 = scan.nextInt();
+        int num2 = 20;
 
         // Closing Scanner after the use
         scan.close();
